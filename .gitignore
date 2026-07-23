@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# Build artifacts
+build/
+dist/
+*.exe
+
+# Environment
+venv/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Launcher temp files
+._launcher_*
